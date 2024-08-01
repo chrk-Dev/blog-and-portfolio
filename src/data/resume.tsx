@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "CHARUKA CHANDRASEKARA ",
   initials: "CC",
-  url: "https://dillion.io",
+  url: "https://charuka-blog-and-portfolio.vercel.app/",
   location: "San Francisco, CA",
   description:
     "Software Engineer undergraduate. I love building things and helping people. Very active on Linkedin.",
