@@ -93,8 +93,8 @@ export const DATA = {
       href: "https://www.cardiffmet.ac.uk/",
       degree: "BSc (Hons) Software Engineering",
       logoUrl: "/cardiff-met.png",
-      start: "2025",
-      end: "2024",
+      start: "2024",
+      end: "2025",
     },
     {
       school: "Cardiff Metropolitan University",
